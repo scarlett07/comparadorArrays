@@ -1,4 +1,4 @@
-#Pseudocódigo
+# Pseudocodigo
 
 1. Crear una funcion que reciba dos arreglos como parametro
 2. Comprobar si la longitud de los arreglos es diferente
@@ -9,3 +9,4 @@
     3.2 Si son iguales continuar comparando uno a uno
 4. Regresa TRUE
 5. FIN :)
+![Esta es la imagen del diagrama](Diagrama.jpg)
